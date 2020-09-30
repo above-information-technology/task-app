@@ -1,0 +1,5 @@
+mongoDB connection from terminal:
+	powershell> /Users/Stefan/mongodb/bin/mongod.exe --dbpath=/Users/Stefan/mongoDB-data (connect to mongodb through the exe file and create a path to store the data into the dbpath)
+
+node.js temrinal commands:
+	npm init -y (init a node.js application with default options)
